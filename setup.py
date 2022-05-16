@@ -15,7 +15,7 @@ setup(
         install_requires=['pyspark'],        
         keywords=['python', 'pyspark', 'ChiSquareTest', 'ChiSquareTestForString'],
         classifiers= [
-            "Development Status :: Alpha",
+            "Development Status :: 3 - Alpha",
             "Programming Language :: Python :: 3",
             "Operating System :: Microsoft :: Windows",
         ]
